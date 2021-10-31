@@ -255,3 +255,13 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+
+
+/* Custom */
+
+.support {
+  max-width: 100%;
+  overflow: scroll;
+  padding-bottom: 1em;
+}
