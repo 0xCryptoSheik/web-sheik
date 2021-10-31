@@ -1,0 +1,21 @@
+{
+  "title": "0xCryptoSheik",
+  "url": "https://0xcryptosheik.tech",
+  "language": "en",
+  "description": "0xCryptoSheik's website.",
+  "feed": {
+    "subtitle": "0xCryptoSheik's updates.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://0xcryptosheik.tech"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://https://0xcryptosheik.tech/feed/feed.json"
+  },
+  "author": {
+    "name": "0xCryptoSheik",
+    "email": "93099369+0xCryptoSheik@users.noreply.github.com",
+    "url": "https://0xcryptosheik.tech"
+  }
+}
